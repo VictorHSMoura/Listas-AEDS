@@ -23,14 +23,6 @@ int fat(int n){
 
 int mdc(int a, int b){
     int resto;
-
-    //inversão de variáveis caso b for maior
-    if(b > a){
-        int aux;
-        aux = a;
-        a = b;
-        b = aux;
-    }
     //resolução por algoritmo de Euclides
     do{
         resto = a%b;
@@ -59,12 +51,15 @@ int fib(int n){
 
 int primo(int num){
     int div;
-    for(div = 2; div <= num/2; div++){
-        //checagem de divisões por 2 até n/2
-        if(num%div == 0)
-            return 0;
+    if(num > 1){
+      for(div = 2; div <= num/2; div++){
+          //checagem de divisões por 2 até n/2
+          if(num%div == 0)
+              return 0;
+      }
+      return 1;
     }
-    return 1;
+    return 0;
 }
 
 void decrescente(int x){
@@ -76,10 +71,12 @@ void decrescente(int x){
 }
 
 int res(int a, int b){
-  if(b < 0){
+  if(b == 0){
     printf("Divisão por 0.\n");
     return 0;
   }
+  else if(b < 0)
+    b *= -1;
   while(a >= b)
       a -= b;
   return a;
@@ -100,16 +97,20 @@ int mmc(int a, int b){
 }
 
 int div(int a, int b){
-  int divisao = 0;
-  if(b < 0){
+  int divisao = 0, neg = 1;
+  if(b == 0){
     printf("Divisão por 0.\n");
     return 0;
+  }
+  else if(b < 0){
+    b *= -1;
+    neg = -1;
   }
   while(a >= b){
       a -= b;
       divisao++;
   }
-  return divisao;
+  return divisao*neg;
 }
 
 double sqrt(double num, double precisao){
@@ -139,7 +140,6 @@ int dig(int n){
   return soma;
 }
 
-//troca de nome para evitar conflito com função nativa do C
 int exp(int k, int n){
   int i, varK = k;
   if(n == 0)
@@ -227,7 +227,7 @@ int main(){
         break;
       case 11:
         scanf("%lf", &num);
-        printf("Sqrt(%lf) = %lf\n", num, sqrt(num, 0.0000001)); //precisao aumentada pra obter valores mais corretos
+        printf("Sqrt(%.3lf) = %.3lf\n", num, sqrt(num, 0.0000001)); //precisao aumentada pra obter valores mais corretos
         break;
       case 12:
         scanf("%d", &n);
