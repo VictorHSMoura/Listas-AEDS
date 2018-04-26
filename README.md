@@ -1,6 +1,6 @@
 # Listas de AEDS 2018-1
 ## Sejam Bem-Vindos
-Aqui você encontra um pouco das minhas resoluções das lista de exercícios de **AEDS I** da turma 2018/1 de Ciência da Computação da UFMG. Não considero que sejam as melhores formas de resolver os exercícios, afinal, o objetivo não é esse.  
+Aqui você encontra um pouco das minhas resoluções das listas de exercícios de **AEDS I** da turma 2018/1 de Ciência da Computação da UFMG. Não considero que sejam as melhores formas de resolver os exercícios, afinal, o objetivo não é esse.  
 Aqui você pode tirar alguma dúvida daquele exercício chato que você não conseguiu fazer a semana inteira ou comparar sua solução com a minha! =D  
 Fique à vontade para mandar sugestões e consultar os códigos caso tenha alguma dúvida.
 >Obs.: Só não vale copiar hein ;)
