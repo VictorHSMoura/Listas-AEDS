@@ -19,18 +19,19 @@ void imprimeVetor(int n, int vetor[]){
 }
 
 int somatorios(int n, int v[], int w[]){
-  int i;
+  int i, soma = 0;
   for(i = 0; i < n; i++){
     if(i == 0)
       w[i] = v[i];
     else
       w[i] = v[i]+w[i-1];
+    soma += w[i];
   }
   printf("Vetor V: ");
   imprimeVetor(n, v);
   printf("Vetor W: ");
   imprimeVetor(n, w);
-  return 1;
+  return soma;
 }
 
 
@@ -44,8 +45,7 @@ int main(){
     printf("Digite o %do elemento do vetor: ", i+1);
     scanf("%d", &v[i]);
   }
-  if(somatorios(n, v, w))
-    printf("Operacao concluida com sucesso\n");
+  printf("Somatorio: %d\n", somatorios(n, v, w));
   free(v);
   free(w);
   return 0;
