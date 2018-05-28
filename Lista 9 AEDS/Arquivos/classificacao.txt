@@ -1,0 +1,1000 @@
+1 - não primo
+2 - primo
+3 - primo
+4 - não primo
+5 - primo
+6 - não primo
+7 - primo
+8 - não primo
+9 - não primo
+10 - não primo
+11 - primo
+12 - não primo
+13 - primo
+14 - não primo
+15 - não primo
+16 - não primo
+17 - primo
+18 - não primo
+19 - primo
+20 - não primo
+21 - não primo
+22 - não primo
+23 - primo
+24 - não primo
+25 - não primo
+26 - não primo
+27 - não primo
+28 - não primo
+29 - primo
+30 - não primo
+31 - primo
+32 - não primo
+33 - não primo
+34 - não primo
+35 - não primo
+36 - não primo
+37 - primo
+38 - não primo
+39 - não primo
+40 - não primo
+41 - primo
+42 - não primo
+43 - primo
+44 - não primo
+45 - não primo
+46 - não primo
+47 - primo
+48 - não primo
+49 - não primo
+50 - não primo
+51 - não primo
+52 - não primo
+53 - primo
+54 - não primo
+55 - não primo
+56 - não primo
+57 - não primo
+58 - não primo
+59 - primo
+60 - não primo
+61 - primo
+62 - não primo
+63 - não primo
+64 - não primo
+65 - não primo
+66 - não primo
+67 - primo
+68 - não primo
+69 - não primo
+70 - não primo
+71 - primo
+72 - não primo
+73 - primo
+74 - não primo
+75 - não primo
+76 - não primo
+77 - não primo
+78 - não primo
+79 - primo
+80 - não primo
+81 - não primo
+82 - não primo
+83 - primo
+84 - não primo
+85 - não primo
+86 - não primo
+87 - não primo
+88 - não primo
+89 - primo
+90 - não primo
+91 - não primo
+92 - não primo
+93 - não primo
+94 - não primo
+95 - não primo
+96 - não primo
+97 - primo
+98 - não primo
+99 - não primo
+100 - não primo
+101 - primo
+102 - não primo
+103 - primo
+104 - não primo
+105 - não primo
+106 - não primo
+107 - primo
+108 - não primo
+109 - primo
+110 - não primo
+111 - não primo
+112 - não primo
+113 - primo
+114 - não primo
+115 - não primo
+116 - não primo
+117 - não primo
+118 - não primo
+119 - não primo
+120 - não primo
+121 - não primo
+122 - não primo
+123 - não primo
+124 - não primo
+125 - não primo
+126 - não primo
+127 - primo
+128 - não primo
+129 - não primo
+130 - não primo
+131 - primo
+132 - não primo
+133 - não primo
+134 - não primo
+135 - não primo
+136 - não primo
+137 - primo
+138 - não primo
+139 - primo
+140 - não primo
+141 - não primo
+142 - não primo
+143 - não primo
+144 - não primo
+145 - não primo
+146 - não primo
+147 - não primo
+148 - não primo
+149 - primo
+150 - não primo
+151 - primo
+152 - não primo
+153 - não primo
+154 - não primo
+155 - não primo
+156 - não primo
+157 - primo
+158 - não primo
+159 - não primo
+160 - não primo
+161 - não primo
+162 - não primo
+163 - primo
+164 - não primo
+165 - não primo
+166 - não primo
+167 - primo
+168 - não primo
+169 - não primo
+170 - não primo
+171 - não primo
+172 - não primo
+173 - primo
+174 - não primo
+175 - não primo
+176 - não primo
+177 - não primo
+178 - não primo
+179 - primo
+180 - não primo
+181 - primo
+182 - não primo
+183 - não primo
+184 - não primo
+185 - não primo
+186 - não primo
+187 - não primo
+188 - não primo
+189 - não primo
+190 - não primo
+191 - primo
+192 - não primo
+193 - primo
+194 - não primo
+195 - não primo
+196 - não primo
+197 - primo
+198 - não primo
+199 - primo
+200 - não primo
+201 - não primo
+202 - não primo
+203 - não primo
+204 - não primo
+205 - não primo
+206 - não primo
+207 - não primo
+208 - não primo
+209 - não primo
+210 - não primo
+211 - primo
+212 - não primo
+213 - não primo
+214 - não primo
+215 - não primo
+216 - não primo
+217 - não primo
+218 - não primo
+219 - não primo
+220 - não primo
+221 - não primo
+222 - não primo
+223 - primo
+224 - não primo
+225 - não primo
+226 - não primo
+227 - primo
+228 - não primo
+229 - primo
+230 - não primo
+231 - não primo
+232 - não primo
+233 - primo
+234 - não primo
+235 - não primo
+236 - não primo
+237 - não primo
+238 - não primo
+239 - primo
+240 - não primo
+241 - primo
+242 - não primo
+243 - não primo
+244 - não primo
+245 - não primo
+246 - não primo
+247 - não primo
+248 - não primo
+249 - não primo
+250 - não primo
+251 - primo
+252 - não primo
+253 - não primo
+254 - não primo
+255 - não primo
+256 - não primo
+257 - primo
+258 - não primo
+259 - não primo
+260 - não primo
+261 - não primo
+262 - não primo
+263 - primo
+264 - não primo
+265 - não primo
+266 - não primo
+267 - não primo
+268 - não primo
+269 - primo
+270 - não primo
+271 - primo
+272 - não primo
+273 - não primo
+274 - não primo
+275 - não primo
+276 - não primo
+277 - primo
+278 - não primo
+279 - não primo
+280 - não primo
+281 - primo
+282 - não primo
+283 - primo
+284 - não primo
+285 - não primo
+286 - não primo
+287 - não primo
+288 - não primo
+289 - não primo
+290 - não primo
+291 - não primo
+292 - não primo
+293 - primo
+294 - não primo
+295 - não primo
+296 - não primo
+297 - não primo
+298 - não primo
+299 - não primo
+300 - não primo
+301 - não primo
+302 - não primo
+303 - não primo
+304 - não primo
+305 - não primo
+306 - não primo
+307 - primo
+308 - não primo
+309 - não primo
+310 - não primo
+311 - primo
+312 - não primo
+313 - primo
+314 - não primo
+315 - não primo
+316 - não primo
+317 - primo
+318 - não primo
+319 - não primo
+320 - não primo
+321 - não primo
+322 - não primo
+323 - não primo
+324 - não primo
+325 - não primo
+326 - não primo
+327 - não primo
+328 - não primo
+329 - não primo
+330 - não primo
+331 - primo
+332 - não primo
+333 - não primo
+334 - não primo
+335 - não primo
+336 - não primo
+337 - primo
+338 - não primo
+339 - não primo
+340 - não primo
+341 - não primo
+342 - não primo
+343 - não primo
+344 - não primo
+345 - não primo
+346 - não primo
+347 - primo
+348 - não primo
+349 - primo
+350 - não primo
+351 - não primo
+352 - não primo
+353 - primo
+354 - não primo
+355 - não primo
+356 - não primo
+357 - não primo
+358 - não primo
+359 - primo
+360 - não primo
+361 - não primo
+362 - não primo
+363 - não primo
+364 - não primo
+365 - não primo
+366 - não primo
+367 - primo
+368 - não primo
+369 - não primo
+370 - não primo
+371 - não primo
+372 - não primo
+373 - primo
+374 - não primo
+375 - não primo
+376 - não primo
+377 - não primo
+378 - não primo
+379 - primo
+380 - não primo
+381 - não primo
+382 - não primo
+383 - primo
+384 - não primo
+385 - não primo
+386 - não primo
+387 - não primo
+388 - não primo
+389 - primo
+390 - não primo
+391 - não primo
+392 - não primo
+393 - não primo
+394 - não primo
+395 - não primo
+396 - não primo
+397 - primo
+398 - não primo
+399 - não primo
+400 - não primo
+401 - primo
+402 - não primo
+403 - não primo
+404 - não primo
+405 - não primo
+406 - não primo
+407 - não primo
+408 - não primo
+409 - primo
+410 - não primo
+411 - não primo
+412 - não primo
+413 - não primo
+414 - não primo
+415 - não primo
+416 - não primo
+417 - não primo
+418 - não primo
+419 - primo
+420 - não primo
+421 - primo
+422 - não primo
+423 - não primo
+424 - não primo
+425 - não primo
+426 - não primo
+427 - não primo
+428 - não primo
+429 - não primo
+430 - não primo
+431 - primo
+432 - não primo
+433 - primo
+434 - não primo
+435 - não primo
+436 - não primo
+437 - não primo
+438 - não primo
+439 - primo
+440 - não primo
+441 - não primo
+442 - não primo
+443 - primo
+444 - não primo
+445 - não primo
+446 - não primo
+447 - não primo
+448 - não primo
+449 - primo
+450 - não primo
+451 - não primo
+452 - não primo
+453 - não primo
+454 - não primo
+455 - não primo
+456 - não primo
+457 - primo
+458 - não primo
+459 - não primo
+460 - não primo
+461 - primo
+462 - não primo
+463 - primo
+464 - não primo
+465 - não primo
+466 - não primo
+467 - primo
+468 - não primo
+469 - não primo
+470 - não primo
+471 - não primo
+472 - não primo
+473 - não primo
+474 - não primo
+475 - não primo
+476 - não primo
+477 - não primo
+478 - não primo
+479 - primo
+480 - não primo
+481 - não primo
+482 - não primo
+483 - não primo
+484 - não primo
+485 - não primo
+486 - não primo
+487 - primo
+488 - não primo
+489 - não primo
+490 - não primo
+491 - primo
+492 - não primo
+493 - não primo
+494 - não primo
+495 - não primo
+496 - não primo
+497 - não primo
+498 - não primo
+499 - primo
+500 - não primo
+501 - não primo
+502 - não primo
+503 - primo
+504 - não primo
+505 - não primo
+506 - não primo
+507 - não primo
+508 - não primo
+509 - primo
+510 - não primo
+511 - não primo
+512 - não primo
+513 - não primo
+514 - não primo
+515 - não primo
+516 - não primo
+517 - não primo
+518 - não primo
+519 - não primo
+520 - não primo
+521 - primo
+522 - não primo
+523 - primo
+524 - não primo
+525 - não primo
+526 - não primo
+527 - não primo
+528 - não primo
+529 - não primo
+530 - não primo
+531 - não primo
+532 - não primo
+533 - não primo
+534 - não primo
+535 - não primo
+536 - não primo
+537 - não primo
+538 - não primo
+539 - não primo
+540 - não primo
+541 - primo
+542 - não primo
+543 - não primo
+544 - não primo
+545 - não primo
+546 - não primo
+547 - primo
+548 - não primo
+549 - não primo
+550 - não primo
+551 - não primo
+552 - não primo
+553 - não primo
+554 - não primo
+555 - não primo
+556 - não primo
+557 - primo
+558 - não primo
+559 - não primo
+560 - não primo
+561 - não primo
+562 - não primo
+563 - primo
+564 - não primo
+565 - não primo
+566 - não primo
+567 - não primo
+568 - não primo
+569 - primo
+570 - não primo
+571 - primo
+572 - não primo
+573 - não primo
+574 - não primo
+575 - não primo
+576 - não primo
+577 - primo
+578 - não primo
+579 - não primo
+580 - não primo
+581 - não primo
+582 - não primo
+583 - não primo
+584 - não primo
+585 - não primo
+586 - não primo
+587 - primo
+588 - não primo
+589 - não primo
+590 - não primo
+591 - não primo
+592 - não primo
+593 - primo
+594 - não primo
+595 - não primo
+596 - não primo
+597 - não primo
+598 - não primo
+599 - primo
+600 - não primo
+601 - primo
+602 - não primo
+603 - não primo
+604 - não primo
+605 - não primo
+606 - não primo
+607 - primo
+608 - não primo
+609 - não primo
+610 - não primo
+611 - não primo
+612 - não primo
+613 - primo
+614 - não primo
+615 - não primo
+616 - não primo
+617 - primo
+618 - não primo
+619 - primo
+620 - não primo
+621 - não primo
+622 - não primo
+623 - não primo
+624 - não primo
+625 - não primo
+626 - não primo
+627 - não primo
+628 - não primo
+629 - não primo
+630 - não primo
+631 - primo
+632 - não primo
+633 - não primo
+634 - não primo
+635 - não primo
+636 - não primo
+637 - não primo
+638 - não primo
+639 - não primo
+640 - não primo
+641 - primo
+642 - não primo
+643 - primo
+644 - não primo
+645 - não primo
+646 - não primo
+647 - primo
+648 - não primo
+649 - não primo
+650 - não primo
+651 - não primo
+652 - não primo
+653 - primo
+654 - não primo
+655 - não primo
+656 - não primo
+657 - não primo
+658 - não primo
+659 - primo
+660 - não primo
+661 - primo
+662 - não primo
+663 - não primo
+664 - não primo
+665 - não primo
+666 - não primo
+667 - não primo
+668 - não primo
+669 - não primo
+670 - não primo
+671 - não primo
+672 - não primo
+673 - primo
+674 - não primo
+675 - não primo
+676 - não primo
+677 - primo
+678 - não primo
+679 - não primo
+680 - não primo
+681 - não primo
+682 - não primo
+683 - primo
+684 - não primo
+685 - não primo
+686 - não primo
+687 - não primo
+688 - não primo
+689 - não primo
+690 - não primo
+691 - primo
+692 - não primo
+693 - não primo
+694 - não primo
+695 - não primo
+696 - não primo
+697 - não primo
+698 - não primo
+699 - não primo
+700 - não primo
+701 - primo
+702 - não primo
+703 - não primo
+704 - não primo
+705 - não primo
+706 - não primo
+707 - não primo
+708 - não primo
+709 - primo
+710 - não primo
+711 - não primo
+712 - não primo
+713 - não primo
+714 - não primo
+715 - não primo
+716 - não primo
+717 - não primo
+718 - não primo
+719 - primo
+720 - não primo
+721 - não primo
+722 - não primo
+723 - não primo
+724 - não primo
+725 - não primo
+726 - não primo
+727 - primo
+728 - não primo
+729 - não primo
+730 - não primo
+731 - não primo
+732 - não primo
+733 - primo
+734 - não primo
+735 - não primo
+736 - não primo
+737 - não primo
+738 - não primo
+739 - primo
+740 - não primo
+741 - não primo
+742 - não primo
+743 - primo
+744 - não primo
+745 - não primo
+746 - não primo
+747 - não primo
+748 - não primo
+749 - não primo
+750 - não primo
+751 - primo
+752 - não primo
+753 - não primo
+754 - não primo
+755 - não primo
+756 - não primo
+757 - primo
+758 - não primo
+759 - não primo
+760 - não primo
+761 - primo
+762 - não primo
+763 - não primo
+764 - não primo
+765 - não primo
+766 - não primo
+767 - não primo
+768 - não primo
+769 - primo
+770 - não primo
+771 - não primo
+772 - não primo
+773 - primo
+774 - não primo
+775 - não primo
+776 - não primo
+777 - não primo
+778 - não primo
+779 - não primo
+780 - não primo
+781 - não primo
+782 - não primo
+783 - não primo
+784 - não primo
+785 - não primo
+786 - não primo
+787 - primo
+788 - não primo
+789 - não primo
+790 - não primo
+791 - não primo
+792 - não primo
+793 - não primo
+794 - não primo
+795 - não primo
+796 - não primo
+797 - primo
+798 - não primo
+799 - não primo
+800 - não primo
+801 - não primo
+802 - não primo
+803 - não primo
+804 - não primo
+805 - não primo
+806 - não primo
+807 - não primo
+808 - não primo
+809 - primo
+810 - não primo
+811 - primo
+812 - não primo
+813 - não primo
+814 - não primo
+815 - não primo
+816 - não primo
+817 - não primo
+818 - não primo
+819 - não primo
+820 - não primo
+821 - primo
+822 - não primo
+823 - primo
+824 - não primo
+825 - não primo
+826 - não primo
+827 - primo
+828 - não primo
+829 - primo
+830 - não primo
+831 - não primo
+832 - não primo
+833 - não primo
+834 - não primo
+835 - não primo
+836 - não primo
+837 - não primo
+838 - não primo
+839 - primo
+840 - não primo
+841 - não primo
+842 - não primo
+843 - não primo
+844 - não primo
+845 - não primo
+846 - não primo
+847 - não primo
+848 - não primo
+849 - não primo
+850 - não primo
+851 - não primo
+852 - não primo
+853 - primo
+854 - não primo
+855 - não primo
+856 - não primo
+857 - primo
+858 - não primo
+859 - primo
+860 - não primo
+861 - não primo
+862 - não primo
+863 - primo
+864 - não primo
+865 - não primo
+866 - não primo
+867 - não primo
+868 - não primo
+869 - não primo
+870 - não primo
+871 - não primo
+872 - não primo
+873 - não primo
+874 - não primo
+875 - não primo
+876 - não primo
+877 - primo
+878 - não primo
+879 - não primo
+880 - não primo
+881 - primo
+882 - não primo
+883 - primo
+884 - não primo
+885 - não primo
+886 - não primo
+887 - primo
+888 - não primo
+889 - não primo
+890 - não primo
+891 - não primo
+892 - não primo
+893 - não primo
+894 - não primo
+895 - não primo
+896 - não primo
+897 - não primo
+898 - não primo
+899 - não primo
+900 - não primo
+901 - não primo
+902 - não primo
+903 - não primo
+904 - não primo
+905 - não primo
+906 - não primo
+907 - primo
+908 - não primo
+909 - não primo
+910 - não primo
+911 - primo
+912 - não primo
+913 - não primo
+914 - não primo
+915 - não primo
+916 - não primo
+917 - não primo
+918 - não primo
+919 - primo
+920 - não primo
+921 - não primo
+922 - não primo
+923 - não primo
+924 - não primo
+925 - não primo
+926 - não primo
+927 - não primo
+928 - não primo
+929 - primo
+930 - não primo
+931 - não primo
+932 - não primo
+933 - não primo
+934 - não primo
+935 - não primo
+936 - não primo
+937 - primo
+938 - não primo
+939 - não primo
+940 - não primo
+941 - primo
+942 - não primo
+943 - não primo
+944 - não primo
+945 - não primo
+946 - não primo
+947 - primo
+948 - não primo
+949 - não primo
+950 - não primo
+951 - não primo
+952 - não primo
+953 - primo
+954 - não primo
+955 - não primo
+956 - não primo
+957 - não primo
+958 - não primo
+959 - não primo
+960 - não primo
+961 - não primo
+962 - não primo
+963 - não primo
+964 - não primo
+965 - não primo
+966 - não primo
+967 - primo
+968 - não primo
+969 - não primo
+970 - não primo
+971 - primo
+972 - não primo
+973 - não primo
+974 - não primo
+975 - não primo
+976 - não primo
+977 - primo
+978 - não primo
+979 - não primo
+980 - não primo
+981 - não primo
+982 - não primo
+983 - primo
+984 - não primo
+985 - não primo
+986 - não primo
+987 - não primo
+988 - não primo
+989 - não primo
+990 - não primo
+991 - primo
+992 - não primo
+993 - não primo
+994 - não primo
+995 - não primo
+996 - não primo
+997 - primo
+998 - não primo
+999 - não primo
+1000 - não primo
